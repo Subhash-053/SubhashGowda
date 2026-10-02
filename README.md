@@ -1,2 +1,0 @@
-# SubhashGowda
-SpringWeImplementingThisProjectsubhash
